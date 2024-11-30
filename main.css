@@ -28,8 +28,14 @@ h2 {
     padding: 0 .5rem;
 }
 
+.contact-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
 .contact {
-    td {
+    div {
         padding-right: .25rem;
 
         &:not(:first-child)::before {

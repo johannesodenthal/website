@@ -73,4 +73,9 @@ h2 {
     .cv-comp {
         font-weight: bold;
     }
+
+    a, a:visited, a:hover, a:active, a:hover {
+        color: inherit;
+        text-decoration: inherit;
+    }
 }

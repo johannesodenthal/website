@@ -102,13 +102,10 @@ h2 {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
+    gap: 0.5rem;
 }
 
 .link {
-    div {
-        padding-right: 0.25rem;
-        padding-bottom: 0.5rem;
-    }
     a,
     a:visited,
     a:hover,

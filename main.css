@@ -130,3 +130,9 @@ h2 {
 .plain-link:hover {
   color: #28565a;
 }
+
+img {
+  width: 50%;
+  height: auto;
+  display: block;
+}
